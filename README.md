@@ -5,27 +5,27 @@ Esse repositório contém os matérias do curso de Economia Brasileira I ministr
 ## Programa do Curso
 
 1. Parte I – A Crise da Década de 1960 e o “Milagre Econômico”
-    1. Estabilização e reforma (1964-1967)
-    2. [A retomada do crescimento e o “milagre econômico” (1968-1973)](03_milagre_economico.ipynb)
-    3. Salários e distribuição de renda
+    - 1 - Estabilização e reforma (1964-1967)
+    - 2 - [A retomada do crescimento e o “milagre econômico” (1968-1973)](03_milagre_economico.ipynb)
+    - 3 - Salários e distribuição de renda
 
 2. Parte II – Endividamento, Choques Externos e Ajustes (1974-1985)
-    1. Industrialização Substitutiva de Importações
-    2. Desaceleração e o II Plano Nacional de Desenvolvimento
-    3. A política macroeconômica diante da crise externa (1980-1985)
+    - 4 - Industrialização Substitutiva de Importações
+    - 5 - Desaceleração e o II Plano Nacional de Desenvolvimento
+    - 6 - A política macroeconômica diante da crise externa (1980-1985)
 
 3. Parte III – Programas de Estabilização e Reestruturação Produtiva
-    1. Os primeiros programas de estabilização
-    2. O Plano Real
-    3. Crise fiscal e reformas estruturais
+    - 7 - Os primeiros programas de estabilização
+    - 8 - O Plano Real
+    - 9 - Crise fiscal e reformas estruturais
 
 4. Parte IV – A Economia Brasileira no Século XXI
-    1. Setor público e política fiscal
-    2. O Governo Lula
-    3. O Governo Dilma
-    4. Governos Temer e Bolsonaro
-    5. Transformações setoriais
-    6. Distribuição de renda, educação e bem-estar social
+    - 10 - Setor público e política fiscal
+    - 11 - O Governo Lula
+    - 12 - O Governo Dilma
+    - 13 - Governos Temer e Bolsonaro
+    - 14 - Transformações setoriais
+    - 15 - Distribuição de renda, educação e bem-estar social
 
 ***
 
