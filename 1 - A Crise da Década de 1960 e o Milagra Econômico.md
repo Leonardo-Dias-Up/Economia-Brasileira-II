@@ -211,3 +211,88 @@
 
 
 ## Salários e distribuição de renda
+
+### Distribuição de Renda e Desenvolvimento Econômico do Brasil: Uma Reafirmação - Carlos Geraldo Langoni (1972)
+
+- Ciclos Econômicos de 1960 a 1970:
+	- ***1a. fase:*** 1960 a 1963 - inflação acelerada e redução do ritmo de crescimento que culminou com depressão; 
+	- ***2a. fase***: 1964 a1966 - redução da inflação e ainda depressão; 
+	- ***3a. fase***: 1967 a 1970 - desaceleração da inflação e crescimento acelerado)
+
+- O artigo visa comentar os trabalhos anteriores do Langoni sobre a distribuição de renda no Brasil e responder as críticas feitas por Albert Fishlow *(Brazilian Income Size Distribution - Another Look)*
+
+- No artigo, o autor diz que há uma limitação metodológica imposta pelos dados. Como as análises da distribuição de renda são baseadas nos dados censitários de 1960 e 1970, é impossível isolar o efeito redistributivo dos *ciclos econômicos* entre esses dois anos e o impacto de mudanças no tamanho da população e da sua estrutura.
+
+> 	Como corolário, na interpretação do que ocorreu com a distribuição de renda com base nos dados censitários, temos que dar ênfase as mudanças de longo prazo que caracterizam uma economia em desenvolvimento. Ou se quisermos destacar o impacto de uma ou outra fase, deveremos nos basear em um modelo teórico cujas hipóteses sejam fixadas "ex-ante", e cuja validade seja suficientemente ampla.
+
+- Langoni estima uma regressão log-linear no modelo: $log(renda) = \beta_0 + \beta_1 \text{ educação} + \beta_2 \text{ idade} + \beta_3 \text{ sexo} + \beta_4 \text{ região} + \beta_5 \text{ atividade}$
+	- As três primeiras variáveis são explicadas pela *teoria do capital humano*
+	- As variáveis de região e atividade refletem diferenção na distribuição de fatores, estrutura produtiva e a existência de impoerfeições de mercado.
+	- *Esse conjunto de variáveis conseguiu explicar uma fração substancial da variância do $log$ da renda individual: 51% em 1960 e 59% em 1970.*
+		- ***A variância marginal (normalizada) da educação para a variância do $log$ da renda aumentou 33% entre 1960 e 1970.*** (Maior aumento entre todas as variáveis)
+
+- O ponto que Langoni busca sustentar durante todo o trabalho é:
+
+	> *Assim, o primeiro resultado extremamente importante que a nossa análise permitiu chegar é de que uma **grande parcela do aumento de desigualdade observado a partir da comparação direta dos perfis estimados de renda reflete apenas mudanças de proporção na força de trabalho** [...]*
+	
+	- Ou seja, o autor entende que os efeitos mais significativos para a mudança do perfil distributivo durante a década de 1960 foram as mudanças entre população de áreas rurais e urbanas, das mulheres relativamente aos homens e do pessoal com ***educação superior*** .
+
+- *Já com a contribuição "pura" de educação ocorre justamente o oposto. Há uma série de razões para acreditar que o impacto da educação sobre a produtividade do indivíduo aumente justamente quando a economia se torna relativamente mais dinâmica. De um lado há a hipótese de complementaridade -entre capital físico moderno e mão-de-obra altamente qualificada. Ao mesmo tempo, quanto mais dinâmica for a economia maiores são as possibilidades de realização dos chamados <mark style="background: #FFF3A3A6;">"efeitos alocativos da educação"</mark> pela importância que assume a absorção de informações acerca de novos insumos, técnicas e produtos*.
+
+	- *Efeitos Alocativos da Educação*: são os benefícios decorrentes da maior capacidade de absorver e utilizar informações que abrangem os mercados de trabalho e do produto, técnicas de produção e sua organização.
+
+- Remuneração do capital fisíco e distribuição de renda:
+	- O capital físico (juros, lucros e aluguéis), por natureza, é bem mais desigualmente distribuída do que a remuneração do capital humano (salários e ordenados). Em primeiro lugar, pela característica residual de sua mais importante componente (lucros) e em segundo lugar pela componente institucional (a propriedade privada).
+	- Entretanto, *o autor diz que não é correto inferir que a contribuição da remuneração do capital fisíco para a desigualdade da renda seja a mais importante em termos relativo*. Em primeiro lugar, porque a renda do trablho tem maior peso na renda global. Em segundo lugar, porque há uma tendência de diminuição na participação relativa da renda da propriedade na renda global.
+	- *"[...] A diferença na magnitude da contribuição marginal normalizada de ocupação em 1960 e 1970, é tão acentuada, que parece restar poucas dúvidas de que <mark style="background: #FFF3A3A6;">tenha havido uma redução sensível na influência da acumulação de capital físico sobre a desigualdade das rendas ao longo da década</mark> ."*
+	- O autor diz que esses resultados são consistentes pois, em um ambiente econômico mais dinâmico e sofisticado, o nível de educação é que passa a garantir altos níveis de renda. Sendo assim, <mark style="background: #FF5582A6;">o autor diz que a redução daparticipação da remuneração do capital físico para a desigualdade é corolário do desenvolvimento econômico.</mark>
+
+- Nas palavras do autor a previsão básica do modelo é:
+	
+	> A sua previsão é de que, em qualquer economia em que haja dois setores com comportamento bem distintos em termos de produtividade e/ou em termos de oferta de mão-de-obra, o <mark style="background: #FFF3A3A6;">processo de desenvolvimento irá necessariamente gerar desequilíbrios</mark> , que serão particularmente importantes na fase de crescimento acelerado. <mark style="background: #FFF3A3A6;">Este desequilíbrio toma forma de um aumento no salário relativo, dos grupos de mão-de-obra qualificada relativamente aqueles pouco qualificados</mark> .
+	
+- Isto é, ao longo do processo de desenvolvimento do final da décade de 1960, a expansão da demanda por mão-de-obra foi ***não neutra***: ela ***beneficiou relativamente mais o pessoal mais qualificado***, refletindo a expansão mais rápida dos setores modernos em relação aos setores tradicionais.
+	- Em termos econômicos, pode se dizer que a oferta de mão-de-obra qualificada é inelástica, enquanto que a oferta de mão-de-obra não qualificada é altamente elástica. Isso faz com que a parcela não qualificada não consiga absorver nenhum efeito em preço do deslocamento da curva de demanda *(no caso extremo, podemos pensar na curva de oferta de mão-de-obra não qualificada como horizontal)*, sendo este movimento apenas refletido no aumento do nível de emprego.
+	- ![alt](Pasted%20image%2020220507120523.png)
+- Em suma, Langoni acredita que o aumento da desigualdade durante a década de 60 foi causado pelas distorções do mercado de trabalho em meio ao crescimento acelerado. <mark style="background: #FFF3A3A6;">Isto é, o autor atribui às diferenças de elasticidade entre oferta de mão-de-obra qualificada e não qualificada o crescimento da desigualde de renda</mark>, <mark style="background: #ABF7F7A6;">e rechaça a ideia de Fishlow que o aumento da desigualdade tenha sido fruto da política salarial do governo</mark> .
+
+	- *"<mark style="background: #FFF3A3A6;">Verificou-se que existem suficientes razões teóricas e evidência empírica para acreditar que uma parcela substancial do aumento de desigualdade esteja associado aos desequilíbrios no mercado de trabalho</mark> que ocorrem ao longo do processo de desenvolvimento e que são particularmente importantes na fase de crescimento acelerado."*
+		- *"O impacto final sobre os salários relativos se completa pelas diferenças de elasticidade da oferta de cada tipo de mão-de-obra (quanto mais qualificada mais inelástica) e pelas peculiaridades da função de produção da educação formal que faz com que mudanças na escala da oferta sejam relativamente lentas."*
+	- *"<mark style="background: #ABF7F7A6;">Finalmente enfatizamos a impossibilidade de identificar inequivocamente a influência independente da política salarial a partir de 1964. </mark> "*
+		- "*Em primeiro lugar, [...] esta não é uma explicação que permita compreender o que aconteceu com o perfil de renda como um todo. Em segundo lugar, ela teria apenas reforçado uma tendência que poderia ser explicada teoricamente pelo comportamento elástico' da mão-de-obra não qualificada. Em terceiro lugar. se a explicação é baseada em fatores" ad hoc" então consistência exige que todas as políticas (ou componen - tes cíclicas), que tiveram potencialmente importantes efeitos redis tributivos durante a década, sejam avaliadas.*"
+
+- Pontos Curiosos:
+	- *Além do mais a análise dos mecanismos através do qual o "background" familiar atua sobre o nível de renda, sugere que a sua importância relativa tende a diminuir quanto mais dinâmica for a economia.* 
+	- *"A nossa sugestão é então a de que todos os estudantes pagassem o custo marginal da educação superior. Esta parcela e mais os custos puros de oportunidades seriam financiadas através de empréstimos por um Banco de Educação e seriam pagos após a entrada no mercado de trabalho. A taxa de juro cobrada deveria se aproximar do custo de oporturndade médio do capital na economia. <mark style="background: #FFF3A3A6;">A importância desse esquema é óbvia: seria eliminada a discriminação contra os indivíduos pobres, garantir-se-ia a expansão adequada (em termos de quantidade e qualidade) do ensino superior e além do mais ,estariam liberados recursos para serem aplicados em outros níveis de educação, cuja rentabilidade social é relativamente mais elevada</mark> ."*
+	- "*Na falta de evidência empírica, a escolha da política salarial a partir de março de 1964 como sendo a que teve o efeito redistributivo negativo mais importante é inteiramente arbitrária. [...] <mark style="background: #FFF3A3A6;">Finalmente, se a política salarial teve realmente uma influência significativa e independente, como conciliar a queda de 33% no salário mínimo em termos reais entre 1960 e 1970, com o aumento de renda real de todos os grupos urbanos no mesmo período?</mark>"*
+	- *"Como nenhum país teve ainda a chance ou tempo para adotar o modelo brasileiro de desenvolvimento, um corolário imediato daqueles que atribuem a fatores institucionais a responsabilidade maior pelo aumento de desigualdade, é de que este aumento é uma peculiaridade do Brasil."*
+		- *"Existe porém evidência empírica substancial de que este não é o caso. Trabalhos clássicos da literatura sobre distribuição da renda como o de Kuznets, Kravis, Lydall e Chiswick mostram que existe uma forte correlação entre a taxa de crescimento da economia e o aumento de desigualdade independentemente do quadro institucional vigente."*
+		- ![](Pasted%20image%2020220507123128.png)
+		- *"Sem dúvida é a constatação de que o grau de concentração tende inicialmente a elevar-se com o nível de renda per capita, atinge um máximo (na faixa dos US\$ 300 aos US\$ 500) e depois começa a diminuir. Daí a sua forma gráfica aproximar-se bastante de uma parábola."*
+
+
+### Ditadura, repressão e desigualdade (1964-1979) - Pedro Herculano Guimarães Ferreira de Souza (2016)
+
+- Para este autor, *"<mark style="background: #FFF3A3A6;">o avanço da concentração no topo já no período antes do “milagre econômico” torna as interpretações benignas centradas no “U invertido” de Kuznets e na educação pouco convincentes</mark> , e reforçam os pontos levantados por Albert Fishlow, Rodolfo Hoffmann, Edmar Bacha e outros. <mark style="background: #ABF7F7A6;">Isso não implica que mudanças estruturais e/ou a desigualdade educacional não tenham nenhuma importância; só é difícil dar primazia a elas</mark> ."*
+
+> *"Embora o programa falasse em “manter a participação dos assalariados no produto nacional”, a política salarial desempenharia um papel fundamental no que se via como contenção do excesso de demanda e no controle dos custos de produção"*
+
+> *"A política salarial não foi a única iniciativa da ditadura com efeitos distributivos favoráveis aos mais ricos. A reforma tributária levada a cabo em meados dos anos 1960 tinha como objetivo aumentar a arrecadação e racionalizar o sistema, e foi muito bem sucedida nisso, contribuindo para a redução significativa do déficit público. **Em termos distributivos, contudo, é muito provável que seu impacto tenha sido regressivo, como defendido por Hermann (2005b), uma vez que a maior parte do aumento da arrecadação decorreu de impostos indiretos**."*
+
+> "A ditadura promoveu ativamente a concentração bancária, sobretudo a partir de 1971, acreditando que economias de escala reduziriam os custos operacionais do sistema. **O resultado foi apenas a limitação da concorrência e oligopolização do sistema bancário**."
+
+> "<mark style="background: #FFF3A3A6;">Ao facilitar a rotatividade da mão de obra, o FGTS foi vantajoso para os empregadores, possibilitando a estratégia de demitir funcionários logo antes dos dissídios coletivos para recontratá-los depois sem conceder os reajustes</mark> (FAUSTO, 1995; VIANNA, 1999). Os recursos do fundo, por sua vez, eram direcionados para os financiamentos subsidiados do Sistema Financeiro de Habitação, que beneficiaram mais as classes média e alta"
+
+- O porquê de se escolher aprofundar a ISI e continuar buscando crédito externo à despeito da situação desfavorável:
+	
+	> "A abertura “lenta, gradual e segura” deu-se em meio a pressões que colocavam em jogo a legitimidade do governo [*Geisel*]. [...] <mark style="background: #FFF3A3A6;">A situação não dava margem para um ajuste recessivo, nem seria possível deslocar as perdas para os assalariados como no PAEG.</mark> Daí a opção por dobrar a aposta no crescimento e lançar o ambicioso II Plano Nacional de Desenvolvimento (PND), possibilitado, no plano externo, pela liquidez proporcionada pelos chamados petrodólares."
+	
+	- Nas palavras do Delfim:
+
+		> "*A estrutura da distribuição de renda é insatisfatória, e com ela a Revolução não se solidariza, mesmo porque tal distribuição resultou de uma evolução de longo prazo da economia, e não de fatores recentes.*" (1974)
+		
+		- O estranho é que essa fala é colocada após uma década de medidas de compressão salarial.
+		
+- Pontos curiosos:
+	- *"No plano retórico os intelectuais do regime pagavam tanto tributo a um futuro mais igualitário quanto, nos meses seguintes ao golpe, os generais à defesa da democracia."*
+	- *"A repressão pavimentou o caminho para políticas sociais e econômicas que dificilmente seriam aceitas em um regime mais livre."*
