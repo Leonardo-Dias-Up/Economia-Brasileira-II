@@ -131,3 +131,5 @@ dmypy.json
 # Extras
 slides/
 textos/
+assets/.pdf
+assets/.md
