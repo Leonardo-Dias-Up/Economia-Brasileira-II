@@ -7,7 +7,7 @@ Esse repositório contém os matérias do curso de Economia Brasileira I ministr
 1. Parte I – A Crise da Década de 1960 e o “Milagre Econômico”
     - 2 - Estabilização e reforma (1964-1967)
     - 3 - [A retomada do crescimento e o “milagre econômico” (1968-1973)](03_milagre_economico.ipynb)
-    - 4 - Salários e distribuição de renda
+    - 4 - [Salários e distribuição de renda](04_salarios_distribuicao_renda.ipynb)
 
 2. Parte II – Endividamento, Choques Externos e Ajustes (1974-1985)
     - 5 - Industrialização Substitutiva de Importações
