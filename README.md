@@ -1,6 +1,6 @@
-# Economia Brasileira I - FEAUSP 2022.01
+# Economia Brasileira I - EAE0423 - FEAUSP 2022.01
 
-Esse repositório contém os matérias do curso de Economia Brasileira I ministrado no 1º semestre de 2022 na FEA-USP. Quando possível, vou colocar aqui os fichamentos das leituras indicadas e as visualizações dos dados do período na forma de `notebooks`.
+Esse repositório contém os materiais do curso de Economia Brasileira I ministrado no 1º semestre de 2022 na FEA-USP. Quando possível, vou colocar aqui os fichamentos das leituras indicadas e as visualizações dos dados do período na forma de `notebooks`.
 
 ## Programa do Curso
 
