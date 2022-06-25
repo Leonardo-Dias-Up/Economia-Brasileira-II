@@ -29,4 +29,8 @@ Esse repositório contém os materiais do curso de Economia Brasileira I ministr
 
 ***
 
+> Textos, slides e códigos dos gráficos foram cortesia do Profº. Dr. Renato Perim Colistete
+
+***
+
 Em caso de dúvidas ou quaisquer outras questões, você pode me mandar um [e-mail](mailto:vdbaldoino@gmail.com?subject=GitHub%20-%20Econo%20Brasileira) ou me mandar uma mensagem pelo [LinkedIn](https://www.linkedin.com/in/vitorbaldoino/).
