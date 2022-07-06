@@ -15,17 +15,15 @@ Esse repositório contém os materiais do curso de Economia Brasileira I ministr
     - 7 - A política macroeconômica diante da crise externa (1980-1985)
 
 3. Parte III – Programas de Estabilização e Reestruturação Produtiva
-    - 8 - Os primeiros programas de estabilização
-    - 9 - O Plano Real
+    - 8 - [Os primeiros programas de estabilização](08_programas_estabilizacao.ipynb)
+    - 9 - [O Plano Real](09_plano_real.ipynb)
     - 10 - Crise fiscal e reformas estruturais
 
 4. Parte IV – A Economia Brasileira no Século XXI
     - 11 - Setor público e política fiscal
-    - 12 - O Governo Lula
-    - 13 - O Governo Dilma
-    - 14 - Governos Temer e Bolsonaro
-    - 15 - Transformações setoriais
-    - 16 - Distribuição de renda, educação e bem-estar social
+    - 12/13 - Governos Lula e Dilma
+    - 14 - Transformações setoriais
+    - 15 - Distribuição de renda, educação e bem-estar social
 
 ***
 
